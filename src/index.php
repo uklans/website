@@ -9,5 +9,26 @@
   </head>
   <body>
     <h1>UK LAN Techs</h1>
+    <h2>Objectives</h2>
+    <ul>
+        <li>To improve technical co-ordination between UK LAN Parties.</li>
+        <li>Allow tech teams to share knowledge, best practice and experience.</li>
+    </ul>
+    <h2>Members</h2>
+    <ul>
+        <li>epic.LAN</li>
+        <li>Insomnia Gaming Festival</li>
+        <li>LANOps</li>
+        <li>LeachLAN</li>
+        <li>LlamaLAN</li>
+        <li>Sanctum</li>
+        <li>ShinyLAN</li>
+        <li>SteamCache.Net</li>
+        <li>StratLAN</li>
+        <li>the BIG GAME</li>
+        <li>The Frag Factory</li>
+        <li>WestLAN</li>
+        <li>Zero Ping Heroes</li>
+    </ul>
   </body>
 </html>
