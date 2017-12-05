@@ -16,6 +16,7 @@
     </ul>
     <h2>Members</h2>
     <ul>
+        <li>BreachLAN</li>
         <li>epic.LAN</li>
         <li>Insomnia Gaming Festival</li>
         <li>LANOps</li>
@@ -29,6 +30,7 @@
         <li>The Frag Factory</li>
         <li>WestLAN</li>
         <li>Zero Ping Heroes</li>
+        <li>ZombieLAN</li>
     </ul>
   </body>
 </html>
