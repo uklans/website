@@ -16,6 +16,7 @@
     </ul>
     <h2>Members</h2>
     <ul>
+        <li>AtomLAN</li>
         <li>BreachLAN</li>
         <li>epic.LAN</li>
         <li>Insomnia Gaming Festival</li>
