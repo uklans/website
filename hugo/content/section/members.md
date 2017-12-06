@@ -22,7 +22,7 @@ class: "spotlight style1 bottom"
 * AtomLAN
 * BreachLAN
 * epic.LAN
-* LANGEEKS
+* LANGeeks
 * LANOps
 * LlamaLAN
 * Sanctum
