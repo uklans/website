@@ -1,0 +1,19 @@
+baseURL = "https://uklans.github.io/"
+languageCode = "en-us"
+title = "UK Lan Techs"
+theme = "hugo-theme-html5up-landed"
+hrefTargetBlank = true
+googleAnalytics = ""
+
+[[menu.main]]
+	name = "Members"
+	weight = 1000
+	identifier = "members"
+
+[params]
+headerlogoimg = "img/logo.png"
+image = "img/logo_square.png"
+bannerimage = "img/servers_bg.jpg"
+description = "UK Lan Techs"
+strapline = "Making UK Lans Better"
+
