@@ -10,4 +10,4 @@ menu:
 ## Website
 [www.epiclan.co.uk](https://www.epiclan.co.uk)
 ## Location
-Kettering, UK
+Stoke-on-Trent, Staffordshire
