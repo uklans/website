@@ -16,20 +16,21 @@
     </ul>
     <h2>Members</h2>
     <ul>
-        <li>AtomLAN</li>
-        <li>BreachLAN</li>
-        <li>epic.LAN</li>
-        <li>LANOps</li>
-        <li>LeachLAN</li>
-        <li>LlamaLAN</li>
+        <li><a href="http://www.atomlan.co.uk">AtomLAN</a></li>
+        <li><a href="https://www.breachlan.co.uk">BreachLAN</a></li>
+        <li><a href="https://www.epiclan.co.uk">epic.LAN</a></li>
+        <li><a href="https://www.langeeks.co.uk">LANGEEKS</a></li>
+        <li><a href="https://www.lanops.co.uk">LANOps</a></li>
+        <li><a href="http://www.llamalan.co.uk">LlamaLAN</a></li>
         <li>Sanctum</li>
-        <li>ShinyLAN</li>
-        <li>SteamCache.Net</li>
-        <li>StratLAN</li>
-        <li>the BIG GAME</li>
-        <li>The Frag Factory</li>
-        <li>WestLAN</li>
-        <li>Zero Ping Heroes</li>
+        <li><a href="http://www.shinylan.co.uk">ShinyLAN</a></li>
+        <li><a href="https://www.swlans.co.uk">SouthWest LANs</a></li>
+        <li><a href="http://steamcache.net">SteamCache.Net</a></li>
+        <li><a href="http://www.stratlan.com">StratLAN</a></li>
+        <li><a href="https://thebiggame.org">the BIG GAME</a></li>
+        <li><a href="http://www.thefragfactory.com">The Frag Factory</a></li>
+        <li><a href="http://www.westlan.co.uk">WestLAN</a></li>
+        <li><a href="http://www.zeropingheroes.co.uk">Zero Ping Heroes</a></li>
         <li>ZombieLAN</li>
     </ul>
   </body>
