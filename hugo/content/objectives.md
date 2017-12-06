@@ -7,7 +7,7 @@ weight: 2
 ---
 
 # Our Objectives
-* To improve technical co-ordination between UK LAN Parties.
-* Allow tech teams to share knowledge, best practice and experience.
+* To improve technical co-ordination between UK LAN parties.
+* Allow tech teams to share knowledge, best practices and experience.
 
 

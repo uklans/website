@@ -6,6 +6,6 @@ weight: 1
 class: "spotlight style2 left"
 image: "img/pencil_objectives.png"
 ---
-* To improve technical co-ordination between UK LAN Parties.
-* Allow tech teams to share knowledge, best practice and experience.
+* To improve technical co-ordination between UK LAN parties.
+* Allow tech teams to share knowledge, best practices and experience.
 
