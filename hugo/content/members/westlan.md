@@ -7,4 +7,15 @@ menu:
   main:
     parent: 'members'
 ---
+# Website
+www.westlan.co.uk
+# Location
+Budleigh Salterton (Devon)
+# Events
+## Spring LAN
+Usually in Febuary
+## Summer LAN
+Usually in August
+## Autumn LAN
+Usually in October
 
