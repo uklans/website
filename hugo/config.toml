@@ -1,4 +1,4 @@
-baseURL = "https://uklans.github.io/"
+baseURL = "https://www.uklans.net/"
 languageCode = "en-us"
 title = "UK Lan Techs"
 theme = "hugo-theme-html5up-landed"
