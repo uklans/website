@@ -19,7 +19,6 @@
         <li>AtomLAN</li>
         <li>BreachLAN</li>
         <li>epic.LAN</li>
-        <li>Insomnia Gaming Festival</li>
         <li>LANOps</li>
         <li>LeachLAN</li>
         <li>LlamaLAN</li>
