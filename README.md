@@ -4,6 +4,22 @@
 
 This is the website for UK LAN Techs. It is intended to be built as a Docker image and is from the maintained Ubuntu/Apache/PHP image provided by 1&1 Internet.
 
+## Prerequesites
+
+This website is built using Hugo. Please install [hugo](https://gohugo.io) before attempting to build the source until we update the docker image to automatically build
+
+## Building the site
+1) Install hugo
+2) Edit files as appropriate
+3) Check the site using
+ # cd hugo
+ # hugo server -D
+4) Ensure all changes you wish to publish are undrafted
+ # hugo undraft <>
+4) Build the site
+ # hugo
+5) Submit a pull request
+
 ## Issues and Feedback
 
 Please raise all issues and feedback on GitHub at [uklans/website](https://github.com/uklans/website/issues).

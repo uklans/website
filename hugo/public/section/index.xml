@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on UK Lan Techs</title>
+    <link>https://uklans.github.io/section/</link>
+    <description>Recent content in Sections on UK Lan Techs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 11:49:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://uklans.github.io/section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>https://uklans.github.io/section/objectives/</link>
+      <pubDate>Wed, 06 Dec 2017 11:49:57 +0000</pubDate>
+      
+      <guid>https://uklans.github.io/section/objectives/</guid>
+      <description> To improve technical co-ordination between UK LAN Parties. Allow tech teams to share knowledge, best practice and experience.  </description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://uklans.github.io/section/members/</link>
+      <pubDate>Wed, 06 Dec 2017 12:09:47 +0000</pubDate>
+      
+      <guid>https://uklans.github.io/section/members/</guid>
+      <description> Members   
+ AtomLAN BreachLAN epic.LAN LANGEEKS LANOps LlamaLAN Sanctum ShinyLAN    SouthWest LANs SteamCache.Net StratLAN the BIG GAME The Frag Factory WestLAN Zero Ping Heroes ZombieLAN   
+ </description>
+    </item>
+    
+  </channel>
+</rss>
