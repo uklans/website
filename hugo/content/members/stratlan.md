@@ -7,12 +7,27 @@ menu:
   main:
     parent: 'members'
 ---
-# Location
+## Location
 Stratford upon avon
-# Events
-## Winter Warmer
+## Events
+
+{{% row %}}
+{{% 3col1 %}}
+### Winter Warmer
 Usually in Febuary
-## Summer Party
+{{% /3col1 %}}
+{{% 3col2 %}}
+### Summer Party
 Usually in June / July
-## Xmas Party
+{{% /3col2 %}}
+{{% 3col3 %}}
+### Xmas Party
 1st Week of December
+{{% /3col3 %}}
+{{% /row %}}
+
+## Core Tech Team
+### James "Vibs" Kinsman
+### Barry "Lepidopterist" Zubel
+### Matt "DrProto" Burnett
+### Mike "Unspec" Taylor
