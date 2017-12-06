@@ -10,7 +10,7 @@ menu:
 ## Website
 [www.stratlan.co.uk](http://www.stratlan.co.uk)
 ## Location
-Stratford upon avon
+Stratford upon Avon
 ## Events
 {{% row %}}
 {{% 3col1 %}}
@@ -36,7 +36,7 @@ Usually in June / July
 ### Barry "Lepidopterist" Zubel
 {{% /4col1 %}}
 {{% 4col1 %}}
-### Matt "DrProto" Burnett
+### Mat "DrProto" Burnett
 {{% /4col1 %}}
 {{% 4col1 %}}
 ### Mike "Unspec" Taylor
