@@ -1,0 +1,6 @@
+[submodule "hugo/themes/hugo-theme-html5up-landed"]
+	path = hugo/themes/hugo-theme-html5up-landed
+	url = git@github.com:VibroAxe/hugo-theme-html5up-landed.git
+[submodule "hugo/public"]
+	path = hugo/public
+	url = git@github.com:uklans/uklans.github.io.git
