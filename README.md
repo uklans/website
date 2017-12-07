@@ -12,6 +12,10 @@ This website is built using Hugo. Please install [hugo](https://gohugo.io) for l
 
 The site will be built and deployed automatically when a version is pushed to master.
 
+## Live Build Status
+
+The resulting docker image will be built automatically and be seen at (https://hub.docker.com/r/uklans/website/)
+
 ## Issues and Feedback
 
 Please raise all issues and feedback on GitHub at [uklans/website](https://github.com/uklans/website/issues).
