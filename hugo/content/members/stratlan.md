@@ -17,7 +17,7 @@ Stratford upon Avon
 {{% 3col1 %}}
 ### Winter Warmer
  - 100 People
- - Febuary
+ - February
  - Stratford Upon Avon Racecourse
 {{% /3col1 %}}
 {{% 3col2 %}}
