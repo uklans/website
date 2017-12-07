@@ -15,7 +15,7 @@ Stratford upon Avon
 {{% row %}}
 {{% 3col1 %}}
 ### Winter Warmer
-Usually in Febuary
+Usually in February
 {{% /3col1 %}}
 {{% 3col2 %}}
 ### Summer Party
