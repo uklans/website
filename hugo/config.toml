@@ -11,8 +11,8 @@ googleAnalytics = ""
 	identifier = "members"
 
 [params]
-headerlogoimg = "img/logo.png"
-image = "img/logo_square.png"
+headerlogoimg = "img/longlogo_t.png"
+image = "img/logo.png"
 bannerimage = "img/servers_bg.jpg"
 description = "UK LAN Techs"
 strapline = "Making UK LANs Better"

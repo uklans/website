@@ -19,16 +19,20 @@ class: "spotlight style1 bottom"
 {{% /row  %}}
 {{% row %}}
 {{% 2col1 %}}
+* altLAN
 * AtomLAN
 * BreachLAN
 * epic.LAN
+* FragSoc
 * LANGeeks
 * LANOps
+* LANRaiders
 * LlamaLAN
-* Sanctum
-* ShinyLAN
+* PhatLAN
 {{% /2col1 %}}
 {{% 2col2 %}}
+* Sanctum
+* ShinyLAN
 * SouthWest LANs
 * SteamCache.Net
 * StratLAN
