@@ -4,6 +4,7 @@ date: 2017-12-06T12:15:01Z
 draft: false
 subtitle: "Fun UK LAN Gaming at its Best"
 image: "img/epiclan_bg.jpg"
+weight: 40
 menu:
   main:
     parent: 'members'

@@ -3,6 +3,7 @@ title: "altLAN"
 date: 2018-03-07T10:00:00Z
 draft: true
 subtitle: ""
+weight: 10
 menu:
   main:
     parent: 'members'

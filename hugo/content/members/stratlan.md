@@ -4,6 +4,7 @@ date: 2017-12-06T11:50:08Z
 draft: false
 subtitle: "Making the bard proud since 1999"
 image: "img/stratlan_bg.png"
+weight: 160
 menu:
   main:
     parent: 'members'

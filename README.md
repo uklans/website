@@ -22,7 +22,7 @@ If you are a member of UKLans and wish to add your information to the website pl
 * Fork this repository
 * Add yourself to the members list in hugo/content/sections/members.md
 * Create a new file in hugo/content/members/yourlan.md 
- * Look at the [StratLAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/stratlan.md) / [epic.LAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/epiclan.md) pages for a good format
+* Look at the [StratLAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/stratlan.md) / [epic.LAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/epiclan.md) pages for a good format
 * Create a pull request
 
 ## Issues and Feedback
