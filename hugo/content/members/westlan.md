@@ -3,6 +3,7 @@ title: "WestLAN"
 date: 2017-12-06T12:16:22Z
 draft: false
 subtitle: ""
+image: "img/westlan_bg.png"
 weight: 190
 menu:
   main:
@@ -28,3 +29,18 @@ Usually in October
 {{% /3col1 %}}
 {{% /row %}}
 
+## Members
+{{% row %}}
+{{% 3col1 %}}
+### Mike Williams
+#### MikeTheGreek
+{{% /3col1 %}}
+{{% 3col1 %}}
+### Mark Jefford
+#### neomancer
+{{% /3col1 %}}
+{{% 3col1 %}}
+### Chris Franklin
+#### bloodtobleed
+{{% /3col1 %}}
+{{% /row %}}
