@@ -16,6 +16,15 @@ The site will be built and deployed automatically when a version is pushed to ma
 
 The resulting docker image will be built automatically and be seen at (https://hub.docker.com/r/uklans/website/)
 
+## Adding a new member page
+
+If you are a member of UKLans and wish to add your information to the website please follow the instructions below
+* Fork this repository
+* Add yourself to the members list in hugo/content/sections/members.md
+* Create a new file in hugo/content/members/yourlan.md 
+ * Look at the [StratLAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/stratlan.md) / [epic.LAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/epiclan.md) pages for a good format
+* Create a pull request
+
 ## Issues and Feedback
 
 Please raise all issues and feedback on GitHub at [uklans/website](https://github.com/uklans/website/issues).
