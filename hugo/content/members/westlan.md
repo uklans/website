@@ -3,6 +3,7 @@ title: "WestLAN"
 date: 2017-12-06T12:16:22Z
 draft: false
 subtitle: ""
+weight: 190
 menu:
   main:
     parent: 'members'
