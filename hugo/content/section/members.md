@@ -22,6 +22,7 @@ class: "spotlight style1 bottom"
 * altLAN
 * AtomLAN
 * BreachLAN
+* CornLAN
 * epic.LAN
 * FragSoc
 * LANGeeks
