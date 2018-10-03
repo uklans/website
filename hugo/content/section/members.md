@@ -22,15 +22,17 @@ class: "spotlight style1 bottom"
 * altLAN
 * AtomLAN
 * BreachLAN
+* CornLAN
 * epic.LAN
 * FragSoc
+* KeyLAN
 * LANGeeks
 * LANOps
 * LANRaiders
 * LlamaLAN
-* PhatLAN
 {{% /2col1 %}}
 {{% 2col2 %}}
+* PhatLAN
 * Sanctum
 * ShinyLAN
 * SouthWest LANs

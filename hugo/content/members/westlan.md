@@ -10,7 +10,7 @@ menu:
     parent: 'members'
 ---
 # Website
-[www.westlan.co.uk](http://www.westlan.co.uk)
+[www.westlan.co.uk](https://www.westlan.co.uk)
 # Location
 Budleigh Salterton (Devon)
 # Events
@@ -31,16 +31,20 @@ Usually in October
 
 ## Members
 {{% row %}}
-{{% 3col1 %}}
+{{% 4col1 %}}
 ### Mike Williams
 #### MikeTheGreek
-{{% /3col1 %}}
-{{% 3col1 %}}
+{{% /4col1 %}}
+{{% 4col1 %}}
 ### Mark Jefford
 #### neomancer
-{{% /3col1 %}}
-{{% 3col1 %}}
+{{% /4col1 %}}
+{{% 4col1 %}}
 ### Chris Franklin
 #### bloodtobleed
-{{% /3col1 %}}
+{{% /4col1 %}}
+{{% 4col1 %}}
+### Pascal Stepien
+#### GiraffeKOOOO
+{{% /4col1 %}}
 {{% /row %}}
