@@ -3,6 +3,7 @@ title: "ShinyLAN"
 date: 2017-12-06T12:15:36Z
 draft: false
 subtitle: ""
+image: "img/shinylan_bg.png"
 weight: 130
 menu:
   main:
@@ -40,7 +41,7 @@ Either on or after Boxing Day
 ### Dave Smith aka *Potshot*
 {{% /4col1 %}}
 {{% 4col1 %}}
-### Ed Chaney aka *edtheprofet*
+### Tony Butler aka *Sir Tony of Chuntingdon*
 {{% /4col1 %}}
 {{% /row %}}
 
