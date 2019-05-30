@@ -1,6 +1,6 @@
 ---
 title: "epic.LAN"
-date: 2017-12-06T12:15:01Z
+date: 2019-05-30T22:15:00Z
 draft: false
 subtitle: "Fun UK LAN Gaming at its Best"
 image: "img/epiclan_bg.jpg"
@@ -18,7 +18,7 @@ Stoke-on-Trent, Staffordshire
 {{% row %}}
 {{% 2col1 %}}
 ### epic.LAN
- - 450 People
+ - 650 People
  - February, June, October
  - Kettering Conference Centre, Kettering
 
@@ -45,9 +45,9 @@ Technical Manager
 General Manager
 {{% /4col1 %}}
 {{% 4col1 %}}
-### Matt Habershon
-#### *Matthab*
-Network Admin
+### Matt Webb
+#### *Juix*
+Infrastructure Team Lead
 {{% /4col1 %}}
 {{% 4col1 %}}
 ### Mark Rapson
@@ -58,30 +58,30 @@ Production
 
 {{% row %}}
 {{% 4col1 %}}
+### Ciaran Crocker
+#### *crox*
+Tech Team
+{{% /4col1 %}}
+{{% 4col1 %}}
+### Elliott Buckingham
+#### *Bucfringe*
+Tech Team
+{{% /4col1 %}}
+{{% 4col1 %}}
+### Nadia Moon
+#### *nadia*
+Tech Team
+{{% /4col1 %}}
+{{% 4col1 %}}
 ### Charlie Haynes
 #### *Bonglord*
 Tech Team
-{{% /4col1 %}}
-{{% 4col1 %}}
-### Zoey Lough
-#### *Crabbey*
-Tech Team
-{{% /4col1 %}}
-{{% 4col1 %}}
-### Alessandro Rizzo
-#### *Rizzo*
-Network Admin Emeritus
-{{% /4col1 %}}
-{{% 4col1 %}}
-### Ben Hurford
-#### *beej*
-Commercial Manager
 {{% /4col1 %}}
 {{% /row %}}
 
 ## About Us
 
-epic.LAN is one of the UK's most exciting LAN gaming events featuring a great range of social games and eSports tournaments. We run LAN parties from 32 players up to 472 around the UK as well as working closely with other gaming industry organisations such as EGX and ESL UK.
+epic.LAN is one of the UK's most exciting LAN gaming events featuring a great range of social games and eSports tournaments. We run LAN parties from 32 players up to 650 around the UK as well as working closely with other gaming industry organisations such as EGX and ESL UK.
 
 The team behind epic.LAN has over 10 years of experience delivering gaming events for both social and competitive gamers as well as a wide industry experience. The team are also avid gamers themselves and you will often see them on online servers as well as visiting LAN events worldwide to look at what works best for our home LANs. 
 
@@ -90,4 +90,4 @@ Gaming was our main focus, but as our reputation has grown, we’ve found more a
 Whether we’re running an event, developing a software product, looking after marketing or community management needs, running a tournament, setting up a network, or just giving advice, whatever we do, we want to make it **epic**.
 
  - [LAN Parties](https://www.epiclan.co.uk)
- - [Professional Services](http://epic-gaming.co.uk/)
+ - [Professional Services](https://epiclanservices.co.uk/)
