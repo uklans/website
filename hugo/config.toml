@@ -1,6 +1,6 @@
 baseURL = "https://www.uklans.net/"
 languageCode = "en-us"
-title = "UK LAN Techs"
+title = "UK LANs"
 theme = "hugo-theme-html5up-landed"
 hrefTargetBlank = true
 googleAnalytics = ""
@@ -9,11 +9,15 @@ googleAnalytics = ""
 	name = "Members"
 	weight = 1000
 	identifier = "members"
+[[menu.main]]
+	name = "Projects"
+	weight = 1000
+	identifier = "projects"
 
 [params]
 headerlogoimg = "img/longlogo_t.png"
 image = "img/logo.png"
 bannerimage = "img/servers_bg.jpg"
-description = "UK LAN Techs"
+description = "UK LANs"
 strapline = "Making UK LANs Better"
 
