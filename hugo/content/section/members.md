@@ -36,7 +36,7 @@ class: "spotlight style1 bottom"
 * Sanctum
 * ShinyLAN
 * SouthWest LANs
-* SteamCache.Net
+* LanCache.Net
 * StratLAN
 * the BIG GAME
 * The Frag Factory
