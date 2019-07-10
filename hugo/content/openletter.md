@@ -39,7 +39,7 @@ When downloads are arranged like this, we can insert a cache transparently using
 
 In addition, we would usually recommend that the download client is downloaded and updated directly over HTTPS, if you do not have a mechanism to validate the download client. 
 
-This is the method employed by many Game publishers, including Valve, Origin, and recently we managed to bring Epic Games onboard who globally disabled HTTPS for game downloads a few weeks ago.
+This is the method employed by many Game publishers, including Valve, Ubisoft, and recently we managed to bring Epic Games onboard who globally disabled HTTPS for game downloads a few weeks ago.
 
 As slightly more complicated scenario is one that is employed by Riot Games.  They have provided us with a ‘trigger hostname’.  When the client is checking for updates, it does a DNS lookup on their ‘trigger hostname’ and if it resolves to local network address (RFC1918), it will identify that it is in a ‘LAN Party’ scenario, and will switch to using HTTP as a download mechanism.  Otherwise, it will usually download via HTTPS.  This allows Riot the ability (although it is not currently used) to display in the client to the end user that the downloads are coming from a ‘cached source’ rather than directly from Riot’s CDN servers.  This can provide an alerting mechanism to the client in case this behaviour is unexpected.
 
