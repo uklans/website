@@ -25,7 +25,7 @@ class: "spotlight style1 bottom"
 * CornLAN
 * epic.LAN
 * FragSoc
-* KeyLAN
+* GGHQ
 * LANGeeks
 * LANOps
 * LANRaiders
