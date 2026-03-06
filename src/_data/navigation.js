@@ -1,5 +1,6 @@
 export default [
-  { name: 'Page 1', route: '/page-1/' },
-  { name: 'Page 2', route: '/page-2/' },
-  { name: 'Page 3', route: '/page-3/' },
+  { name: 'Home', route: '/' },
+  { name: 'Members', route: '/members/' },
+  { name: 'Open Letter', route: '/openletter/' },
+  { name: 'About', route: '/about/' },
 ]

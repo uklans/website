@@ -1,0 +1,32 @@
+<footer class="bg-slate-950 border-t border-slate-800 mt-auto">
+  <div class="container py-10">
+    <div class="flex flex-col md:flex-row items-center justify-between gap-6">
+
+      {# Wordmark #}
+      <a href="/" class="flex items-center gap-3 group">
+        <div class="w-7 h-7 bg-brand-500 rounded-md flex items-center justify-center flex-shrink-0 group-hover:bg-brand-400 transition-colors">
+          <svg class="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 3H5a2 2 0 00-2 2v4m6-6h10a2 2 0 012 2v4M9 3v18m0 0h10a2 2 0 002-2V9M9 21H5a2 2 0 01-2-2V9m0 0h18" />
+          </svg>
+        </div>
+        <span class="font-semibold text-slate-300 text-sm tracking-tight">
+          UK LAN <span class="text-brand-400">Techs</span>
+        </span>
+      </a>
+
+      {# Footer links #}
+      <nav class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+        {% for item in navigation %}
+          <a href="{{ item.route }}" class="text-sm text-slate-500 hover:text-slate-300 transition-colors">
+            {{ item.name }}
+          </a>
+        {% endfor %}
+      </nav>
+
+      {# Copyright #}
+      <p class="text-sm text-slate-600">
+        &copy; 2025 UK LAN Techs
+      </p>
+    </div>
+  </div>
+</footer>
