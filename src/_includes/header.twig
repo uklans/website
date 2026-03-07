@@ -15,6 +15,7 @@
         {% for item in navigation %}
           <a
             href="{{ item.route }}"
+            {% if item.newWindow %}target="_blank" rel="noopener noreferrer"{% endif %}
             class="px-4 py-2 rounded-md text-sm font-medium transition-colors
               {{ page.url == item.route
                 ? 'text-brand-400 bg-brand-500/10'
@@ -44,6 +45,7 @@
       {% for item in navigation %}
         <a
           href="{{ item.route }}"
+          {% if item.newWindow %}target="_blank" rel="noopener noreferrer"{% endif %}
           class="block px-3 py-2 rounded-md text-sm font-medium transition-colors mb-1
             {{ page.url == item.route
               ? 'text-brand-400 bg-brand-500/10'
