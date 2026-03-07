@@ -1,54 +1,34 @@
-# UK LAN Techs Website
+# 🫖 The TEA Stack
 
-## Introduction
+Welcome to the most minimal stack out there. This stack makes static site generation a breeze.
 
-This is the website for UK LAN Techs. It is intended to be built as a Docker image and is from the maintained Ubuntu/Apache/PHP image provided by 1&1 Internet.
+## 🧰 Tools
 
-## Prerequisites
+This project uses the following frameworks:
 
-This website is built using Hugo. Please install [hugo](https://gohugo.io) for local development.
+- [TailwindCSS](https://tailwindcss.com/)
+- [Eleventy](https://www.11ty.dev/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Vite](https://vitejs.dev)
 
-## Building the site
+## ⭐️ Requirements
 
-The site will be built and deployed automatically when a version is pushed to master.
+- [Node](https://nodejs.org/en/)
+- [NVM](https://github.com/nvm-sh/nvm)
 
-## Live Build Status
+## 🛠 Getting Started
 
-The resulting docker image will be built automatically and be seen at (https://hub.docker.com/r/uklans/website/)
+- `nvm use` to switch to the valid node version
+- `npm i` to build that big ol' `node_modules` folder
+- `npm run dev` to boot up a live-reloading dev server
+- `npm run build` to build your production-ready site
 
-## Adding a new member page
+Feel free to peep the `package.json` file to see all available scripts and packages being utilized.
 
-If you are a member of UKLans and wish to add your information to the website please follow the instructions below
-* Fork this repository
-* Add yourself to the members list in hugo/content/sections/members.md
-* Create a new file in hugo/content/members/yourlan.md 
-* Look at the [StratLAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/stratlan.md) / [epic.LAN](https://raw.githubusercontent.com/uklans/website/master/hugo/content/members/epiclan.md) pages for a good format
-* Create a pull request
+### 🔥 Tip:
 
-## Issues and Feedback
+Running `npm run build && npx serve dist` will boot up a local server of your production site to preview before deployment.
 
-Please raise all issues and feedback on GitHub at [uklans/website](https://github.com/uklans/website/issues).
+### 👋🏻 Thank you!
 
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2017 UK LAN Techs
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+I appreciate you taking time to check out the TEA stack, Please leave a star and share it if you found it useful!
