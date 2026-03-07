@@ -46,9 +46,9 @@ export default [
     description: ``,
     favicon: '/enclavelan.png',
     website: 'https://www.enclavelan.com/',
-    location: 'MK Arena, Milton Keynes',
+    location: 'Marshall Arena at Stadium MK, Milton Keynes',
     memberSince: 2025,
-    capacity: 500,
+    capacity: 1080,
     social: {
       twitter: 'EnclaveLan',
       discord: 'https://discord.gg/ekWqVjjKWD',
