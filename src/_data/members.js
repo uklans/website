@@ -185,12 +185,14 @@ export default [
   {
     name: 'ShinyLAN',
     slug: 'shinylan',
-    tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/shinylan.ico',
+    tagline: `ShinyLAN is a well established LAN party with its roots going back over 25 years based in the South West of the UK.`,
+    website: 'http://www.shinylan.co.uk/',
+    location: 'Cerne Abbas, Dorchester',
+    social: {
+      facebook: 'https://www.facebook.com/shinylanuk/',
+      twitter: 'https://twitter.com/ShinyLAN/',
+    },
   },
   {
     name: 'StratLAN',
