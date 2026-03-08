@@ -12,17 +12,22 @@ export default [
   {
     name: 'altLAN',
     slug: 'altlan',
-    tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/altlan.png',
+    tagline: `altLAN, part of altGaming, is a celebration of gaming culture.`,
+    website: 'https://altlan.co.uk/altlan',
+    location: 'Stourbridge, West Midlands',
+    social: {
+      discord: 'https://discord.gg/jvgX8r7',
+      facebook: 'https://facebook.com/altlanuk',
+      twitter: 'altgaminguk'
+
+    },
   },
   {
     name: 'BreachLAN',
     slug: 'breachlan',
     tagline: ``,
+    favicon: '/breachlan.ico',
     website: 'https://www.breachlan.party/',
     location: 'Aberdeen, Scotland',
     social: {
@@ -32,6 +37,7 @@ export default [
   {
     name: 'Continuum',
     slug: 'continuum',
+    favicon: '/continuum.svg',
     tagline: ``,
 //    website: 'https://www.breachlan.party/',
 //    location: 'Aberdeen, Scotland',
@@ -113,6 +119,7 @@ export default [
   {
     name: 'Gamers Unite LAN',
     slug: 'gul',
+    favicon: '/gul.webp',
     tagline: ``,
 //    website: 'https://www.breachlan.party/',
 //    location: 'Aberdeen, Scotland',
@@ -134,21 +141,26 @@ export default [
     name: 'LANOps',
     slug: 'lanops',
     tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/lanops.png',
+    website: 'https://lanops.co.uk/',
+    location: 'Barnsley, South Yorkshire',
+    capacity: 70,
+    social: {
+      discord: 'https://discord.gg/JjeFunevpc',
+      facebook: 'https://www.facebook.com/LanOps'
+    },
   },
   {
     name: 'LlamaLAN',
     slug: 'llama',
     tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/llamalan.jpg',
+    website: 'https://www.llamalan.co.uk/',
+    location: 'Chatham, Kent',
+    social: {
+      discord: 'https://discord.breachlan.party/',
+      facebook: 'https://www.facebook.com/#!/group.php?gid=4079644074'
+    },
   },
   {
     name: 'MiniLAN',
@@ -183,12 +195,15 @@ export default [
   {
     name: 'StratLAN',
     slug: 'stratlan',
-    tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/stratlan.png',
+    tagline: `More than just an event it is a community, a place to play together, meet like minded gamers and spend the occasional weekend away from your troubles. We support each other, enjoy each other and accept each other.`,
+    website: 'https://stratlan.com/',
+    location: 'Stratford-upon-Avon Racecourse, Stratford-Upon-Avon',
+    social: {
+      discord: 'https://stratlan.com/',
+      facebook: 'https://www.facebook.com/Stratlan',
+      twitter: 'Strat_LAN'
+    },
   },
   {
     name: 'the BIG GAME',
@@ -203,11 +218,12 @@ export default [
   {
     name: 'Zero Ping Heroes',
     slug: 'zeroping',
-    tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    favicon: '/zph.png',
+    tagline: `An exceptional LAN and a collection of shared gaming experiences in a friendly social atmosphere.`,
+    website: 'https://zeropingheroes.co.uk/',
+    location: 'Lewes, East Sussex',
+    social: {
+      discord: 'https://discord.com/invite/KabHQJUc',
+    },
   },
 ].sort((a, b) => a.name.localeCompare(b.name))
