@@ -113,12 +113,19 @@ export default [
   {
     name: 'Gamers Unite LAN',
     slug: 'gul',
-    tagline: ``,
-//    website: 'https://www.breachlan.party/',
-//    location: 'Aberdeen, Scotland',
-//    social: {
-//      discord: 'https://discord.breachlan.party/',
-//    },
+    tagline: `A community first LAN event. Single day, 4 times a year.`,
+    favicon: '/gul.png',
+    capacity: 40,
+    website: 'https://www.gamersunitelan.com/',
+    location: 'Swindon, Wiltshire',
+    social: {
+      twitter: 'GamersUniteLAN',
+      discord: 'https://discord.gg/2akPpZD73v',
+      facebook: 'Gamers-Unite-LAN',
+      instagram: 'gamersunitelan',
+      youtube: '@GamersUnite923',
+      reddit: 'GamersUniteLAN'
+    },
   },
   {
     name: 'HodgLAN',
