@@ -18,12 +18,18 @@ This project uses the following frameworks:
 
 ## 🛠 Getting Started
 
-- `nvm use` to switch to the valid node version
+- `nvm use` to switch to the valid node version (`nvm` will grab the correct version found in `.nvmrc`)
 - `npm i` to build that big ol' `node_modules` folder
 - `npm run dev` to boot up a live-reloading dev server
 - `npm run build` to build your production-ready site
 
 Feel free to peep the `package.json` file to see all available scripts and packages being utilized.
+
+## ➕ Adding a member
+- Add your logo to `./public/<your-lan-here>.png`
+- Add/Update your LAN in `./src/_data/members.js`
+    - Please use single quotes in the JSON (`'`)
+- Done!
 
 ### 🔥 Tip:
 
