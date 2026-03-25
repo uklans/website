@@ -1,4 +1,0 @@
-<IfModule headers_module>
-  Header set X-Clacks-Overhead "GNU Terry Pratchett"
-  Header set Access-Control-Allow-Origin "*"
-</IfModule>

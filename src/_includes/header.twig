@@ -1,0 +1,61 @@
+<header class="bg-slate-950 border-b border-slate-800 sticky top-0 z-50" x-data>
+  <nav class="container" aria-label="Main navigation">
+    <div class="flex items-center justify-between h-24">
+
+      {# Logo / Wordmark #}
+      <a href="/" class="flex items-center gap-3 group">
+          <img src="/uklansflag2.png" alt="" class="w-14 h-14" aria-hidden="true">
+        <span class="font-bold text-slate-100 text-2xl tracking-tight">
+          UK LANs
+        </span>
+      </a>
+
+      {# Desktop navigation #}
+      <div class="hidden md:flex items-center gap-1">
+        {% for item in navigation %}
+          <a
+            href="{{ item.route }}"
+            {% if item.newWindow %}target="_blank" rel="noopener noreferrer"{% endif %}
+            class="px-4 py-2 rounded-md text-sm font-medium transition-colors
+              {{ page.url == item.route
+                ? 'text-brand-400 bg-brand-500/10'
+                : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800'
+              }}"
+          >
+            {{ item.name }}
+          </a>
+        {% endfor %}
+      </div>
+
+      {# Mobile menu button #}
+      <button
+        class="md:hidden p-2 rounded-md text-slate-400 hover:text-slate-100 hover:bg-slate-800 transition-colors"
+        @click="$store.nav.toggle()"
+        aria-label="Toggle menu"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path x-show="!$store.nav.isOpen" stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+          <path x-show="$store.nav.isOpen" x-cloak stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+
+    {# Mobile navigation #}
+    <div x-show="$store.nav.isOpen" x-cloak class="md:hidden border-t border-slate-800 py-3">
+      {% for item in navigation %}
+        <a
+          href="{{ item.route }}"
+          {% if item.newWindow %}target="_blank" rel="noopener noreferrer"{% endif %}
+          class="block px-3 py-2 rounded-md text-sm font-medium transition-colors mb-1
+            {{ page.url == item.route
+              ? 'text-brand-400 bg-brand-500/10'
+              : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800'
+            }}"
+          @click="$store.nav.close()"
+        >
+          {{ item.name }}
+        </a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>

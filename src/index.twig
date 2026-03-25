@@ -1,0 +1,99 @@
+---
+title: 'Home'
+description: 'UK LANs is a working group of UK LAN party events, collaborating to support and grow the UK LAN scene.'
+---
+
+{% extends "_includes/layout.twig" %}
+
+{% block body %}
+
+  {# Hero #}
+  <section class="relative overflow-hidden bg-slate-950 min-h-screen flex items-center">
+    {# Background image #}
+    <div class="absolute inset-0">
+      <img src="/fibreswitch.png" alt="" class="w-full h-full object-cover object-center opacity-50" aria-hidden="true">
+      <div class="absolute inset-0 bg-gradient-to-b from-slate-950/40 via-slate-950/50 to-slate-950"></div>
+      <div class="absolute inset-0 bg-gradient-to-r from-slate-950/60 via-transparent to-slate-950/60"></div>
+    </div>
+
+    <div class="container relative py-32 md:py-48 text-center w-full">
+
+      <h1 class="text-6xl md:text-8xl font-extrabold text-white tracking-tight mb-6 drop-shadow-lg">
+        UK LANs
+      </h1>
+
+      <p class="text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
+        A collaborative working group bringing together UK LAN party events. We work together to share event tnowledge, resources, and technical expertise for the good of the community.
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <!--<a
+          href="/about/"
+          class="inline-flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold px-6 py-3 rounded-lg transition-colors border border-slate-700"
+        >
+          About Us
+        </a>-->
+        <a
+          href="/members/"
+          class="inline-flex items-center justify-center gap-2 bg-brand-500 hover:bg-brand-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+        >
+          View Members
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  {# What we do #}
+  <section class="py-20 border-t border-slate-800">
+    <div class="container">
+      <div class="max-w-3xl mx-auto text-center mb-14">
+        <h2 class="text-3xl font-bold text-slate-100 mb-4">Our Objectives</h2>
+        <p class="text-slate-400 text-lg leading-relaxed">
+          UK LANs is a working group formed by organisers and technical teams from UK LAN party events. We work together to improve the quality of events across the country.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-6">
+          <div class="w-10 h-10 bg-brand-500/10 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-brand-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+          </div>
+          <h3 class="font-semibold text-slate-100 mb-2">Community</h3>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            Connecting event organisers across the UK to share knowledge and support each other in running successful LAN events.
+          </p>
+        </div>
+
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-6">
+          <div class="w-10 h-10 bg-brand-500/10 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-brand-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
+            </svg>
+          </div>
+          <h3 class="font-semibold text-slate-100 mb-2">Technical</h3>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            Sharing technical expertise around networking, hardware, software, and infrastructure for the betterment of all events.
+          </p>
+        </div>
+
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-6">
+          <div class="w-10 h-10 bg-brand-500/10 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-brand-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+            </svg>
+          </div>
+          <h3 class="font-semibold text-slate-100 mb-2">Standards</h3>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            Working together to develop and promote best practices that help deliver consistent, high-quality experiences for attendees.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{% endblock %}
