@@ -1,40 +1,37 @@
-# 🫖 The TEA Stack
+# UK LAN Techs Website
 
-Welcome to the most minimal stack out there. This stack makes static site generation a breeze.
+## Introduction
 
-## 🧰 Tools
+This is the website for UK LAN Techs. A TEA Stack, github pages hosted information page about UK LANS. Please see [Contributing](CONTRIBUTING.md) for all development information.
 
-This project uses the following frameworks:
+## Adding your member page
 
-- [TailwindCSS](https://tailwindcss.com/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://alpinejs.dev/)
-- [Vite](https://vitejs.dev)
+If you are a member of UKLans and wish to add your information to the website please follow the instructions found in [Contributing](CONTRIBUTING.md)
 
-## ⭐️ Requirements
+## Issues and Feedback
 
-- [Node](https://nodejs.org/en/)
-- [NVM](https://github.com/nvm-sh/nvm)
+Please raise all issues and feedback on GitHub at [uklans/website](https://github.com/uklans/website/issues).
 
-## 🛠 Getting Started
+## License
 
-- `nvm use` to switch to the valid node version (`nvm` will grab the correct version found in `.nvmrc`)
-- `npm i` to build that big ol' `node_modules` folder
-- `npm run dev` to boot up a live-reloading dev server
-- `npm run build` to build your production-ready site
+The MIT License (MIT)
 
-Feel free to peep the `package.json` file to see all available scripts and packages being utilized.
+Copyright (c) 2026 UK LAN Techs
 
-## ➕ Adding a member
-- Add your logo to `./public/<your-lan-here>.png`
-- Add/Update your LAN in `./src/_data/members.js`
-    - Please use single quotes in the JSON (`'`)
-- Done!
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### 🔥 Tip:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Running `npm run build && npx serve dist` will boot up a local server of your production site to preview before deployment.
-
-### 👋🏻 Thank you!
-
-I appreciate you taking time to check out the TEA stack, Please leave a star and share it if you found it useful!
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
