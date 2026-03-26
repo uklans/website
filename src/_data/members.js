@@ -108,10 +108,9 @@ export default [
     social: {
       discord: 'https://discord.gg/epiclan',
       facebook: 'epiclan',
-      // instagram: 'username',
-      // reddit: 'subreddit',
+      instagram: 'epiclan',
       twitter: 'epiclan',
-      // youtube: '@username',
+      youtube: '@epiclanuk',
     },
     memberSince: 2014,
   },
