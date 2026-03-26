@@ -134,6 +134,21 @@ export default [
     },
   },
   {
+    name: 'GGHQ',
+    slug: 'gghq',
+    tagline: `Gloucestershire based Gaming Community`,
+    favicon: '/gghq.png',
+    capacity: 20,
+    website: 'https://gghq.io/',
+    location: 'Cheltenham, Gloucestershire',
+    social: {
+      discord: 'https://discord.gg/zeW4Rs4rDe',
+      instagram: 'gghq_io',
+      youtube: '@gghqio',
+      reddit: 'gghqio'
+    },
+  },
+  {
     name: 'HodgLAN',
     slug: 'hodglan',
     tagline: ``,
