@@ -73,10 +73,9 @@ export default [
     social: {
       discord: 'https://discord.gg/ekWqVjjKWD',
       facebook: 'EnclaveLAN',
-      // instagram: 'username',
-      // reddit: 'subreddit',
+      instagram: 'enclave_lan',
       twitter: 'EnclaveLan',
-      // youtube: '@username',
+      youtube: '@Enclave_LAN',
     },
     memberSince: 2025,
   },
