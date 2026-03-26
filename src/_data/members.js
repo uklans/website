@@ -134,7 +134,7 @@ export default [
     },
   },
   {
-    name: 'GGGHQ',
+    name: 'GGHQ',
     slug: 'gghq',
     tagline: `Gloucestershire based Gaming Community`,
     favicon: '/gghq.png',
