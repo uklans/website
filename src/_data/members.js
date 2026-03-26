@@ -27,12 +27,9 @@ export default [
     social: {
       discord: 'https://discord.gg/jvgX8r7',
       facebook: 'https://facebook.com/altlanuk',
-      // instagram: 'username',
-      // reddit: 'subreddit',
       twitter: 'altgaminguk',
-      // youtube: '@username',
     },
-    // memberSince: 2017,
+    memberSince: 2017,
   },
   {
     name: 'BreachLAN',
