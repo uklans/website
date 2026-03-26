@@ -57,7 +57,7 @@ export default [
     capacity: 35,
     social: {
       discord: 'https://discord.gg/5Ej2KPpSYE',
-      facebook: 'people/Continuum-Gaming',
+      facebook: 'profile.php?id=100090937340886',
       instagram: 'continuumgaming_',
     },
     memberSince: 2023,
