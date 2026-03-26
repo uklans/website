@@ -219,9 +219,11 @@ export default [
     name: 'StratLAN',
     slug: 'stratlan',
     favicon: '/stratlan.png',
-    tagline: `More than just an event it is a community, a place to play together, meet like minded gamers and spend the occasional weekend away from your troubles. We support each other, enjoy each other and accept each other.`,
+    tagline: `More than just an event StratLAN is a community, a place to play together, meet like minded gamers and spend the occasional weekend away from your troubles. We support each other, enjoy each other and accept each other.`,
     website: 'https://stratlan.com/',
     location: 'Stratford-upon-Avon Racecourse, Stratford-Upon-Avon',
+    memberSince: 2014,
+    capacity: 250,
     social: {
       discord: 'https://stratlan.com/',
       facebook: 'https://www.facebook.com/Stratlan',
