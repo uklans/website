@@ -294,12 +294,10 @@ export default [
     favicon: '/shinylan.ico',
     location: 'Cerne Abbas, Dorchester',
     social: {
-      // discord: 'https://discord.gg/#',
-      facebook: 'https://www.facebook.com/shinylanuk/',
-      // instagram: 'username',
-      // reddit: 'subreddit',
+      discord: 'https://discord.gg/gkTjvXHWgG',
+      facebook: 'shinylanuk',
+      instagram: 'shinylanuk',
       twitter: 'https://twitter.com/ShinyLAN/',
-      // youtube: '@username',
     },
   },
   {
