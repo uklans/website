@@ -193,13 +193,13 @@ export default [
     capacity: 20,
     social: {
       discord: 'https://discord.gg/zeW4Rs4rDe',
-      // facebook: 'username',
+      facebook: 'groups/gghq.io',
       instagram: 'gghq_io',
       reddit: 'gghqio',
-      // twitter: 'username',
+      twitter: 'gghqio',
       youtube: '@gghqio',
     },
-    // memberSince: 2017,
+    memberSince: 2018,
   },
   {
     name: 'HodgLAN',
