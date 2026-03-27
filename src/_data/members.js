@@ -243,17 +243,17 @@ export default [
   {
     name: 'Zero Ping Heroes',
     slug: 'zph',
-    favicon: '/zph.png',
     tagline: `A celebration of shared game experiences where together we cultivate a friendly social atmosphere for game-lovers of all backgrounds and skill levels.`,
     website: 'https://zeropingheroes.co.uk/',
+    favicon: '/zph.png',
     location: 'Lewes, East Sussex',
-    memberSince: 2017,
     capacity: 30,
     social: {
       discord: 'https://zph.in/discord',
-      facebook: 'https://www.facebook.com/zeropingheroes',
-      twitter: 'https://twitter.com/zeropingheroes',
+      facebook: 'zeropingheroes',
       instagram: 'zeropingheroes',
+      twitter: 'zeropingheroes',
     },
+    memberSince: 2017,
   },
 ].sort((a, b) => a.name.localeCompare(b.name))
