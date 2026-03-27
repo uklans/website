@@ -238,20 +238,17 @@ export default [
   {
     name: 'LlamaLAN',
     slug: 'llama',
-    // tagline: ``,
+    tagline: `Providing LANs for llamas since 2002.`,
     website: 'https://www.llamalan.co.uk/',
-    favicon: '/llamalan.jpg',
+    favicon: '/llamalan.png',
     location: 'Chatham, Kent',
-    // capacity: 123,
+    capacity: 40,
     social: {
       discord: 'https://discord.breachlan.party/',
-      facebook: 'https://www.facebook.com/#!/group.php?gid=4079644074'
-      // instagram: 'username',
-      // reddit: 'subreddit',
-      // twitter: 'username',
-      // youtube: '@username',
+      facebook: 'llamalanuk',
+      twitter: 'LlamaLANUK',
     },
-    // memberSince: 2017,
+    memberSince: 2017,
   },
   {
     name: 'MiniLAN',
