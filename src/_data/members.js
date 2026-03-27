@@ -181,7 +181,7 @@ export default [
       twitter: 'GamersUniteLAN',
       youtube: '@GamersUnite923',
     },
-    // memberSince: 2017,
+    memberSince: 2024,
   },
   {
     name: 'GGHQ',
