@@ -222,7 +222,7 @@ export default [
   {
     name: 'LANOps',
     slug: 'lanops',
-    // tagline: ``,
+    tagline: `LanOps is a non-profit community run by volunteers with one goal: have fun and be awesome.`,
     website: 'https://lanops.co.uk/',
     favicon: '/lanops.png',
     location: 'Barnsley, South Yorkshire',
@@ -230,12 +230,10 @@ export default [
     social: {
       discord: 'https://discord.gg/JjeFunevpc',
       facebook: 'https://www.facebook.com/LanOps',
-      // instagram: 'username',
-      // reddit: 'subreddit',
-      // twitter: 'username',
-      // youtube: '@username',
+      instagram: 'lanops.uk',
+      youtube: '@LanOps',
     },
-    // memberSince: 2017,
+    memberSince: 2017,
   },
   {
     name: 'LlamaLAN',
