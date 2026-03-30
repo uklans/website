@@ -345,8 +345,8 @@ export default [
     social: {
       discord: 'https://zph.in/discord',
       facebook: 'zeropingheroes',
-      twitter: 'zeropingheroes',
       instagram: 'zeropingheroes',
+      twitter: 'zeropingheroes',
     },
     memberSince: 2017,
   },
